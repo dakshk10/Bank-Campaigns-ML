@@ -1,0 +1,8 @@
+,roc_auc,pr_auc,precision@500,lift@500
+baseline_prior,0.5,0.3083,0.064,0.2076
+logistic_regression,0.7001,0.5043,0.602,1.9525
+logistic_regression_unweighted,0.7483,0.5271,0.538,1.7449
+random_forest,0.7121,0.5048,0.622,2.0173
+xgboost,0.6132,0.42,0.536,1.7384
+lda,0.6203,0.4477,0.488,1.5827
+qda,0.6891,0.525,0.63,2.0433
